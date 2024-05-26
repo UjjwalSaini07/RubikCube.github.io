@@ -1,25 +1,6 @@
 <h1>Rubik-Cube</h1>
 
-<p align="center">
- 
- <a href="https://github.com/Dev-tanay/Rubik-Cube/issues">
-    <img src="https://img.shields.io/github/issues/Dev-tanay/Rubik-Cube?style=for-the-badge" alt="GitHub issues">
-  </a>
-  <a href="https://github.com/Dev-tanay/Rubik-Cube/network/members">
-    <img src="https://img.shields.io/github/forks/Dev-tanay/Rubik-Cube?style=for-the-badge" alt="GitHub forks">
-  </a>
-  <a href="https://github.com/Dev-tanay/Rubik-Cube/stargazers">
-    <img src="https://img.shields.io/github/stars/Dev-tanay/Rubik-Cube?style=for-the-badge" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/Dev-tanay/Rubik-Cube/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Dev-tanay/Rubik-Cube?style=for-the-badge" alt="GitHub license">
-  </a>
-  <a href="https://dev-tanay.github.io/Rubik-Cube/">
-    <img src="https://img.shields.io/website?style=for-the-badge&down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdev-tanay.github.io%2FRubik-Cube%2F" alt="Website status">
-  </a>
-</p>
 <h2>Link to Game Demo</h2>
-<a href="https://dev-tanay.github.io/Rubik-Cube/">https://dev-tanay.github.io/Rubik-Cube/</a>
 
 <img src="images/home.png" width="350">
 
@@ -50,7 +31,7 @@
 <h2>Installation</h2>
 <ol type="i">
   <li>Clone the repository</li>
-  <pre><code>git clone https://github.com/Dev-tanay/Rubik-Cube.git</code></pre>
+  <pre><code>git clone https://github.com/UjjwalSaini07/RubikCube.github.io.git</code></pre>
   <li>Navigate to the cloned repository</li>
   <pre><code>cd Rubik-Cube</code></pre>
   <li>Open the <code>index.html</code> file in a web browser</li>
@@ -92,6 +73,3 @@
     <li>Average of 5, 12, 25</li>
   </ul>
 </ul>
-
-<h3>LICENSE</h3>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
